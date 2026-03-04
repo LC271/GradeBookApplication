@@ -172,7 +172,7 @@ namespace GradeBook.UserInterfaces
             Console.WriteLine();
             Console.WriteLine("List - Lists all students.");
             Console.WriteLine();
-            Console.WriteLine("AddGrade 'Name' 'Score' - Adds a new grade to a student with the matching name of the provided score.");
+            Console.WriteLine("AddGrade 'Name' 'Score' - Adds a new grade(from 0 to 100) to a student with the matching name of the provided score.");
             Console.WriteLine();
             Console.WriteLine("RemoveGrade 'Name' 'Score' - Removes a grade from a student with the matching name and score.");
             Console.WriteLine();
